@@ -1,13 +1,7 @@
 // Type definitions for syno 2.2
 // Project: https://github.com/kwent/syno
-// Definitions by: J. Garcia <https://github.com/me>
+// Definitions by: J. Garcia <https://github.com/janikgar>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-
-/*~ If this module is a UMD module that exposes a global variable 'myLib' when
- *~ loaded outside a module loader environment, declare that global here.
- *~ Otherwise, delete this declaration.
- */
-export as namespace myLib;
 
 /*~ If this module has methods, declare them as functions like so.
  */
